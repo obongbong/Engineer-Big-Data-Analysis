@@ -121,8 +121,8 @@
     - 시급성 : 비즈니스 관점(Value)
     - 난이도 : 투자요소 관점(3V - 다양성, 속도, 규모)
         
-        ![스크린샷 2024-04-03 오전 11.57.53.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a51b2ad5-8122-4731-b13a-457575244d9a/1aa6faa8-a984-40ef-9df8-cf20c1da3d16/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-04-03_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_11.57.53.png)
-        
+        <img width="424" height="176" alt="image" src="https://github.com/user-attachments/assets/df4f319e-2037-4f75-a89d-337da4c5be6c" />
+
         - 시급성 중요 : 3사분면 → 4사분면 → 2사분면
         - 난이도 중요 : 3사분면 → 1사분면 → 2사분면
 
@@ -144,8 +144,8 @@
 - **⭐️⭐️⭐️빅데이터 분석 방법론 (순서)**
     - **PPADD**
     
-    ![스크린샷 2024-04-03 오후 12.12.15.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a51b2ad5-8122-4731-b13a-457575244d9a/d1aeca4e-d984-44a4-ae0c-65186619dbc2/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-04-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.12.15.png)
-    
+    <img width="836" height="490" alt="image" src="https://github.com/user-attachments/assets/6f710c45-5c0e-4359-b72f-45646c0ec2de" />
+
     - **분석기획**
         1. 비즈니스 이해 및 범위 설정 : *구조화된 작업 기술서(SOW)* 작성
         2. 프로젝트 정의 및 계획 수립 : 프로젝트 계획서, 목적, 기대효과, *작업분할구조도(WBS)* 작성
@@ -168,8 +168,8 @@
 
 - 데이터 분석 성숙도 모델 → 기업의 도입 적정성 여부 평가 (**도준정확**)
     
-    ![스크린샷 2024-04-03 오후 12.18.31.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a51b2ad5-8122-4731-b13a-457575244d9a/8f3fc136-4af7-4237-a50e-39191baa6a9c/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-04-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.18.31.png)
-    
+    <img width="664" height="294" alt="image" src="https://github.com/user-attachments/assets/f8a41a8a-ecfd-4f93-ba3f-9cb9aed0d6c7" />
+
 
 - **데이터 거버넌스**
     - 전사 차원에서 데이터에 대해 표준화된 관리 체계 수립
@@ -372,8 +372,8 @@
     - 모집단 분산을 모르는 경우 = 정규분포를 사용할 수 없음
         - **자유도가 n-1인 t분포**를 이용
         
-        ![참고](https://prod-files-secure.s3.us-west-2.amazonaws.com/a51b2ad5-8122-4731-b13a-457575244d9a/2ce8e495-bd23-48d3-91e0-6c985c20dfea/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-04-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.41.10.png)
-        
+        <img width="606" height="290" alt="image" src="https://github.com/user-attachments/assets/48339f0b-b0fd-47d5-9d7d-890120b96814" />
+
         참고
         
 
@@ -402,7 +402,7 @@
         - 동일 모집단에 대한 평균비교 검정 : 대응표본
         - 서로 다른 모집단에 대한 평균비교 검정 : 독립표본
 
-![스크린샷 2024-04-03 오후 4.01.34.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a51b2ad5-8122-4731-b13a-457575244d9a/286183f0-1d8f-430d-87f8-c4b5579888ce/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-04-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.01.34.png)
+<img width="1024" height="962" alt="image" src="https://github.com/user-attachments/assets/9f320692-5557-4ac3-abee-551a8c6d75f7" />
 
 # 📌 3과목
 
@@ -661,8 +661,8 @@
     3. AdaGrad : 기울기 크기에 따라 학습률을 조정 / 처음엔 크게 → 점차 작게 학습
     4. Adam : 모멘텀+AdaGrad ⇒ 좌우 흔들림이 덜함
         
-        ![스크린샷 2024-04-04 오후 5.30.40.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a51b2ad5-8122-4731-b13a-457575244d9a/bad724a9-d95d-40a6-951c-189334338cad/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-04-04_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.30.40.png)
-        
+        <img width="779" height="543" alt="image" src="https://github.com/user-attachments/assets/33465b8d-a63f-4ea5-90f7-f4a774b32495" />
+
 
 ## #분석결과 해석 및 활용
 
@@ -672,8 +672,8 @@
 
 - 주성분 분석 (PCA)
     
-    ![스크린샷 2024-04-04 오후 12.46.06.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a51b2ad5-8122-4731-b13a-457575244d9a/1615a02a-4256-4985-851f-66c24ea0faf8/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-04-04_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.46.06.png)
-    
+    <img width="860" height="288" alt="image" src="https://github.com/user-attachments/assets/28cbac2f-e49d-47a0-9dbf-ce90f939d3b4" />
+
     - 스크리플롯 : 주성분 개수 선택 시 도움이 되는 그래프 (팔꿈치 기법 이용)
         
         ⇒ 그래프가 완만해지기 직전 단계 개수로 선택
@@ -687,8 +687,8 @@
     3. 1번과 2번 모두 귀무가설 기각되면 해당 모델 활용
     4. 모형이 설명력을 갖는가 = 결정계수(R square) 값
         
-        ![자유도 = DF](https://prod-files-secure.s3.us-west-2.amazonaws.com/a51b2ad5-8122-4731-b13a-457575244d9a/2858717e-5090-4c53-a792-b8f4f17d0784/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-04-04_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.50.36.png)
-        
+        <img width="862" height="706" alt="image" src="https://github.com/user-attachments/assets/2643072f-b9cd-48c1-8bc7-37a2368e436b" />
+
         자유도 = DF
         
 
