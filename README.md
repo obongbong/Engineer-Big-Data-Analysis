@@ -92,8 +92,8 @@
 
 - ⭐️분석 대상과 방법
     
-    ![스크린샷 2024-04-03 오전 11.27.59.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a51b2ad5-8122-4731-b13a-457575244d9a/8264c0ca-03ed-40b6-bd40-60e0f86cd106/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-04-03_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_11.27.59.png)
-    
+    <img width="408" height="274" alt="image" src="https://github.com/user-attachments/assets/ac68fea6-81e8-46e2-aea2-eb9818f5d402" />
+
 
 - 분석 기획 방안
     - 과제 중심적 접근 : 빠르게 해결
